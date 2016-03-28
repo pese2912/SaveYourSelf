@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e2e3221a92c606c4f9b14dc63db8a5b1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FireDot: {fileID: 400000, guid: e0cf97b6c8381014292ad13ee5997f45, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

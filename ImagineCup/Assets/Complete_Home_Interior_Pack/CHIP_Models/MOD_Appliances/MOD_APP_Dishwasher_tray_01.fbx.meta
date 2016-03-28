@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: a629b69ba4cc74c42b823a684c2ffaa8
+timeCreated: 1432645844
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: HSHP_MOD_Dishwasher_tray_01
+    7400000: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|CameraAction|HSHP_MOD
+    7400002: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Book_01.001A
+    7400004: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Book_02.001A
+    7400006: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Bowl_01Actio
+    7400008: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Bowl_02Actio
+    7400010: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Box_01Action
+    7400012: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Candle_01Act
+    7400014: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Condimen.000
+    7400016: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Condiment_01
+    7400018: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Conditioner_
+    7400020: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_.000
+    7400022: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_.001
+    7400024: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_pot_
+    7400026: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Deodorant.00
+    7400028: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Face_cream.0
+    7400030: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Fork_01Actio
+    7400032: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Frying_pan_0
+    7400034: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Hand_soap.00
+    7400036: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Knife_03Acti
+    7400038: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_MugAction|HS
+    7400040: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Pepper_shake
+    7400042: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Perfume_01.0
+    7400044: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Photo_frame_
+    7400046: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Plate_01Acti
+    7400048: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Power_outlet
+    7400050: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Salt_shakerA
+    7400052: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Shampoo_01.0
+    7400054: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Toothbrush_0
+    7400056: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Towel_02.005
+    7400058: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Washing_liqu
+    7400060: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Washing_spon
+    7400062: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Water_glass_
+    7400064: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|HSHP_MOD_Wine_glass_0
+    7400066: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|PlaneAction|HSHP_MOD_
+    7400068: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|Point.101Action.001|H
+    7400070: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|Point.101Action|HSHP_
+    7400072: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|Point.102Action|HSHP_
+    7400074: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|SHP_MOD_Painkillers.0
+    7400076: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01.001|HSHP_MOD_Closet_01|SHP_MOD_Toothpaste.00
+    7400078: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|CameraAction|HSHP_MOD_Clo
+    7400080: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Book_01.001Actio
+    7400082: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Book_02.001Actio
+    7400084: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Bowl_01Action|HS
+    7400086: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Bowl_02Action|HS
+    7400088: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Box_01Action|HSH
+    7400090: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Candle_01Action|
+    7400092: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Condiment_01.001
+    7400094: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Condiment_01Acti
+    7400096: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Conditioner_01.0
+    7400098: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_pot_01Ac
+    7400100: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_pot_02Ac
+    7400102: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Cooking_pot_lid_
+    7400104: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Deodorant.001Act
+    7400106: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Face_cream.001Ac
+    7400108: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Fork_01Action|HS
+    7400110: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Frying_pan_01Act
+    7400112: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Hand_soap.001Act
+    7400114: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Knife_03Action|H
+    7400116: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_MugAction|HSHP_M
+    7400118: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Pepper_shakerAct
+    7400120: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Perfume_01.001Ac
+    7400122: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Photo_frame_01.0
+    7400124: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Plate_01Action|H
+    7400126: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Power_outlet_01A
+    7400128: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Salt_shakerActio
+    7400130: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Shampoo_01.001Ac
+    7400132: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Toothbrush_01.00
+    7400134: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Towel_02.005Acti
+    7400136: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Washing_liquidAc
+    7400138: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Washing_spongeAc
+    7400140: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Water_glass_01.0
+    7400142: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|HSHP_MOD_Wine_glass_01Act
+    7400144: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|PlaneAction|HSHP_MOD_Clos
+    7400146: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|Point.101Action.001|HSHP_
+    7400148: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|Point.101Action|HSHP_MOD_
+    7400150: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|Point.102Action|HSHP_MOD_
+    7400152: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|SHP_MOD_Painkillers.001Ac
+    7400154: HSHP_MOD_Dishwasher_tray_01|HSHP_MOD_Closet_01|HSHP_MOD_Closet_01|SHP_MOD_Toothpaste.001Act
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
